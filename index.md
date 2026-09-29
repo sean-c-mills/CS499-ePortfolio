@@ -13,4 +13,4 @@ This code review examines the original Animal Shelter Dashboard developed in my 
 
 For my first enhancement, I reorganized the Animal Shelter Dashboard to improve its structure and separate the dashboard interface from the processing behind its features.
 
-[View the Software Design and Engineering Enhancement](software-design.html)
+[View the Software Design and Engineering Enhancement](https://sean-c-mills.github.io/CS499-ePortfolio/software-design.html)
