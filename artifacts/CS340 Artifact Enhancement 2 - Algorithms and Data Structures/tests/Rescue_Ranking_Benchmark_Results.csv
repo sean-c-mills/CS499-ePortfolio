@@ -1,0 +1,6 @@
+records,full_sort_end_to_end_ms,top_k_end_to_end_ms,full_sort_selection_ms,top_k_selection_ms,same_end_to_end_results,same_selection_results
+100,6.2766,6.3433,0.0183,0.0262,TRUE,TRUE
+500,28.3332,28.3827,0.1133,0.1066,TRUE,TRUE
+1000,55.6205,55.8523,0.2457,0.2137,TRUE,TRUE
+5000,277.5692,282.1712,1.2966,0.994,TRUE,TRUE
+10000,556.1992,554.3118,2.725,1.9731,TRUE,TRUE
