@@ -6,7 +6,7 @@ Southern New Hampshire University
   <a href="./">Home</a>
   <a href="#professional-self-assessment">Self-Assessment</a>
   <a href="software-design.html">Software Design</a>
-  <a href="algorithms-data-structures.html">Algorithms & Data Structures</a>
+  <a href="algorithms-data-structures.html">Algorithms &amp; Data Structures</a>
   <a href="databases.html">Databases</a>
 </nav>
 
