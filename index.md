@@ -1,6 +1,7 @@
-## Computer Science ePortfolio
-
-Southern New Hampshire University
+<div class="portfolio-header">
+  <h1>Sean Mills | CS-499 ePortfolio</h1>
+  <p>Southern New Hampshire University</p>
+</div>
 
 <nav class="portfolio-nav">
   <a href="https://sean-c-mills.github.io/CS499-ePortfolio/">Home</a>
