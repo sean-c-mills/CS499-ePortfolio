@@ -1,5 +1,6 @@
 # Sean Mills
 ## Computer Science ePortfolio
+Southern New Hampshire University
 
 Welcome to my CS 499 Computer Science Capstone ePortfolio. This portfolio demonstrates my growth throughout the Computer Science program at Southern New Hampshire University through a code review and enhancements to my Animal Shelter Dashboard.
 
