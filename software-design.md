@@ -1,5 +1,13 @@
 # Software Design and Engineering
 
+<nav class="portfolio-nav">
+  <a href="https://sean-c-mills.github.io/CS499-ePortfolio/">Home</a>
+  <a href="https://sean-c-mills.github.io/CS499-ePortfolio/#professional-self-assessment">Self-Assessment</a>
+  <a href="https://sean-c-mills.github.io/CS499-ePortfolio/software-design.html">Software Design</a>
+  <a href="https://sean-c-mills.github.io/CS499-ePortfolio/algorithms-data-structures.html">Algorithms &amp; Data Structures</a>
+  <a href="https://sean-c-mills.github.io/CS499-ePortfolio/databases.html">Databases</a>
+</nav>
+
 ## Animal Shelter Dashboard
 
 The Animal Shelter Dashboard was originally created in my CS 340: Client Server Development course. For this enhancement, I reorganized the application so different parts of the program have clearer responsibilities while keeping the original dashboard functionality.
