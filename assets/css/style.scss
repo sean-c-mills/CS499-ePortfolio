@@ -111,3 +111,37 @@ header h1 a:hover {
   color: #17365d;
   text-decoration: none;
 }
+
+/* Portfolio header */
+.portfolio-header {
+  text-align: center;
+  padding: 38px 25px;
+  margin: -35px -45px 25px -45px;
+  background: linear-gradient(120deg, #17365d, #245f8f);
+  border-radius: 8px 8px 0 0;
+}
+
+.portfolio-header h1 {
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  border-bottom: none;
+  font-size: 2.2rem;
+}
+
+.portfolio-header p {
+  margin: 10px 0 0 0;
+  color: #e6edf5;
+  font-size: 1.05rem;
+}
+
+@media (max-width: 700px) {
+  .portfolio-header {
+    margin: -22px -22px 20px -22px;
+    padding: 28px 18px;
+  }
+
+  .portfolio-header h1 {
+    font-size: 1.7rem;
+  }
+}
