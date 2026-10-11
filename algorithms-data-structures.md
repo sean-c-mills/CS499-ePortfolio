@@ -1,3 +1,8 @@
+<div class="portfolio-header">
+  <h1>Sean Mills | CS-499 ePortfolio</h1>
+  <p>Southern New Hampshire University</p>
+</div>
+
 # Algorithms and Data Structures
 
 <nav class="portfolio-nav">
