@@ -25,6 +25,11 @@ body {
   padding-bottom: 10px;
 }
 
+/* Hides the empty theme heading above the custom header */
+.markdown-body > h1:first-child:empty {
+  display: none;
+}
+
 /* Centers the main page title */
 .markdown-body > h1 {
   text-align: center;
