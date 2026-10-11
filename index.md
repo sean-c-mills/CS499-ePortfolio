@@ -11,7 +11,7 @@
   <a href="https://sean-c-mills.github.io/CS499-ePortfolio/databases.html">Databases</a>
 </nav>
 
-Welcome to my CS 499 Computer Science Capstone ePortfolio. This portfolio demonstrates my growth throughout the Computer Science program at Southern New Hampshire University through a code review and enhancements to my Animal Shelter Dashboard.
+Welcome to my CS 499 Computer Science Capstone ePortfolio. This portfolio demonstrates my growth throughout the Computer Science program at Southern New Hampshire University through a code review and enhancements I have made to my Animal Shelter Dashboard from my CS 340: Client Server Development course.
 
 ## Code Review
 
