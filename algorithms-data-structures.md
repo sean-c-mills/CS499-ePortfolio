@@ -34,6 +34,6 @@ The biggest challenge was deciding how to rank the eligible animals without maki
 
 ## Narrative Document
 
-[Download the original Algorithms and Data Structures Narrative](https://sean-c-mills.github.io/CS499-ePortfolio/narratives/Enhancement%202%20-%20Algorithms%20and%20Data%20Structures%20Narrative.docx)
+[Download the Original Algorithms and Data Structures Narrative](https://sean-c-mills.github.io/CS499-ePortfolio/narratives/Enhancement%202%20-%20Algorithms%20and%20Data%20Structures%20Narrative.docx)
 
 [Return to the ePortfolio Home Page](https://sean-c-mills.github.io/CS499-ePortfolio/)
