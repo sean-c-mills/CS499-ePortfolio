@@ -14,3 +14,9 @@ This code review examines the original Animal Shelter Dashboard developed in my 
 For my first enhancement, I reorganized the Animal Shelter Dashboard to improve its structure and separate the dashboard interface from the processing behind its features.
 
 [View the Software Design and Engineering Enhancement](https://sean-c-mills.github.io/CS499-ePortfolio/software-design.html)
+
+## Algorithms and Data Structures
+
+For my second enhancement, I added a suitability scoring system to the Animal Shelter Dashboard and compared a bounded priority queue with full sorting to rank rescue candidates.
+
+[View the Algorithms and Data Structures Enhancement](https://sean-c-mills.github.io/CS499-ePortfolio/algorithms-data-structures.html)
