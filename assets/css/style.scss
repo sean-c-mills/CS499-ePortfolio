@@ -96,3 +96,18 @@ body {
     text-align: center;
   }
 }
+
+/* Site title */
+.markdown-body > h1:first-child a,
+header h1 a {
+  color: #17365d;
+  text-decoration: none;
+  pointer-events: none;
+  cursor: default;
+}
+
+.markdown-body > h1:first-child a:hover,
+header h1 a:hover {
+  color: #17365d;
+  text-decoration: none;
+}
