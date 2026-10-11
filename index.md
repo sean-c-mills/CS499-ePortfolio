@@ -2,6 +2,14 @@
 
 Southern New Hampshire University
 
+<nav class="portfolio-nav">
+  <a href="./">Home</a>
+  <a href="#professional-self-assessment">Self-Assessment</a>
+  <a href="software-design.html">Software Design</a>
+  <a href="algorithms-data-structures.html">Algorithms & Data Structures</a>
+  <a href="databases.html">Databases</a>
+</nav>
+
 Welcome to my CS 499 Computer Science Capstone ePortfolio. This portfolio demonstrates my growth throughout the Computer Science program at Southern New Hampshire University through a code review and enhancements to my Animal Shelter Dashboard.
 
 ## Code Review
