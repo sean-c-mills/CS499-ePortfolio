@@ -25,6 +25,11 @@ body {
   padding-bottom: 10px;
 }
 
+/* Centers the main page title */
+.markdown-body > h1 {
+  text-align: center;
+}
+
 /* Section headings */
 .markdown-body h2 {
   color: #17365d;
