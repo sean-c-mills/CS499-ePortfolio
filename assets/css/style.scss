@@ -53,9 +53,36 @@ body {
   margin-bottom: 18px;
 }
 
+/* Portfolio navigation */
+.portfolio-nav {
+  margin: 22px 0 28px 0;
+  padding: 12px 16px;
+  background-color: #f2f6fb;
+  border: 1px solid #d8e2ef;
+  border-radius: 6px;
+}
+
+.portfolio-nav a {
+  display: inline-block;
+  margin-right: 22px;
+  color: #17365d;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.portfolio-nav a:hover {
+  color: #0969da;
+  text-decoration: underline;
+}
+
 /* Mobile formatting */
 @media (max-width: 700px) {
   .markdown-body {
     padding: 22px;
+  }
+
+  .portfolio-nav a {
+    display: block;
+    margin: 6px 0;
   }
 }
