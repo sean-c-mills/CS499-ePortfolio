@@ -14,9 +14,9 @@
 
 # Algorithms and Data Structures
 
-## Animal Shelter Dashboard
+## Enhancement Overview
 
-The Animal Shelter Dashboard was originally created in my CS 340: Client Server Development course. This enhancement focuses on improving how eligible rescue candidates are ranked after they pass the existing rescue requirements.
+For my second enhancement, I added a suitability scoring system so eligible rescue candidates could be ranked instead of all of them being treated the same after they passed the rescue requirements. I also compared a bounded priority queue with full sorting and tested both approaches with larger datasets to see how their performance changed as the amount of data increased.
 
 ## Artifact Versions
 
