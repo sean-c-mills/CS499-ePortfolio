@@ -6,7 +6,8 @@
 <nav class="portfolio-nav">
   <a href="https://sean-c-mills.github.io/CS499-ePortfolio/">Home</a>
   <a href="https://sean-c-mills.github.io/CS499-ePortfolio/#professional-self-assessment">Self-Assessment</a>
-  <a href="https://sean-c-mills.github.io/CS499-ePortfolio/software-design.html">Software Design & Engineering</a>
+  <a href="https://sean-c-mills.github.io/CS499-ePortfolio/#code-review">Code Review</a>
+  <a href="https://sean-c-mills.github.io/CS499-ePortfolio/software-design.html">Software Design &amp; Engineering</a>
   <a href="https://sean-c-mills.github.io/CS499-ePortfolio/algorithms-data-structures.html">Algorithms &amp; Data Structures</a>
   <a href="https://sean-c-mills.github.io/CS499-ePortfolio/databases.html">Databases</a>
 </nav>
