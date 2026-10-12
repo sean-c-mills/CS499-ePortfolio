@@ -14,9 +14,9 @@
 
 # Databases
 
-## Animal Shelter Dashboard
+## Enhancement Overview
 
-For my third enhancement, I expanded the database portion of the Animal Shelter Dashboard by moving rescue-profile information into MongoDB, adding validation, improving how database credentials are handled, and testing a compound index against the rescue searches used by the application.
+For my third enhancement, I expanded how MongoDB is used in the Animal Shelter Dashboard by moving the rescue-profile information into the database instead of keeping it directly in the application. I also added validation, moved the database credentials into environment variables, and tested a compound index with the rescue searches to see whether it improved performance.
 
 ## Artifact Versions
 
