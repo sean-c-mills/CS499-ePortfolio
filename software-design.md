@@ -14,9 +14,9 @@
 
 # Software Design and Engineering
 
-## Animal Shelter Dashboard
+## Enhancement Overview
 
-The Animal Shelter Dashboard was originally created in my CS 340: Client Server Development course. For this enhancement, I reorganized the application so different parts of the program have clearer responsibilities while keeping the original dashboard functionality.
+For my first enhancement, I reorganized the Animal Shelter Dashboard so the interface and the processing behind its features were separated into different parts of the application. I also separated general animal browsing from rescue searches and added a separate page for managing rescue-profile settings. This made the project easier to follow and gave me a better structure to build on during the later enhancements.
 
 ## Artifact Versions
 
