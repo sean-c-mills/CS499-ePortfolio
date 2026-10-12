@@ -52,7 +52,7 @@ This code review examines the original Animal Shelter Dashboard developed in my 
 
 ## Software Design and Engineering
 
-For my first enhancement, I reorganized the Animal Shelter Dashboard so the interface and the processing behind its features were separated into different parts of the application. I also separated general animal browsing from rescue searches and added a separate page for managing rescue-profile settings. This makes the project easier to follow and gave me a better structure to build on during the later enhancements.
+For my first enhancement, I reorganized the Animal Shelter Dashboard so the interface and the processing behind its features were separated into different parts of the application. I also separated general animal browsing from rescue searches and added a separate page for managing rescue-profile settings. This made the project easier to follow and gave me a better structure to build on during the later enhancements.
 
 [View the Software Design and Engineering Enhancement](https://sean-c-mills.github.io/CS499-ePortfolio/software-design.html)
 
