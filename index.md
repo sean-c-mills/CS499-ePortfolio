@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 <div class="portfolio-header">
   <h1>Sean Mills | CS-499 ePortfolio</h1>
   <p>Southern New Hampshire University</p>
@@ -63,3 +65,5 @@ For my second enhancement, I added a suitability scoring system so eligible resc
 For my third enhancement, I expanded how MongoDB is used in the Animal Shelter Dashboard by moving the rescue-profile information into the database instead of keeping it directly in the application. I also added validation, moved the database credentials into environment variables, and tested a compound index with the rescue searches to see whether it improved performance.
 
 [View the Databases Enhancement](https://sean-c-mills.github.io/CS499-ePortfolio/databases.html)
+
+[Return to Top of Page](#top)
