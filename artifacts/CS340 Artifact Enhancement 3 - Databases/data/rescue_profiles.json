@@ -1,0 +1,42 @@
+[
+    {
+        "profile_type": "water",
+        "label": "Water Rescue",
+        "breeds": [
+            "Labrador Retriever",
+            "Chesapeake Bay Retriever",
+            "Newfoundland"
+        ],
+        "sex": "Intact Female",
+        "min_age_weeks": 26,
+        "max_age_weeks": 156
+    },
+    {
+        "profile_type": "mountain",
+        "label": "Mountain or Wilderness Rescue",
+        "breeds": [
+            "German Shepherd",
+            "Alaskan Malamute",
+            "Old English Sheepdog",
+            "Siberian Husky",
+            "Rottweiler"
+        ],
+        "sex": "Intact Male",
+        "min_age_weeks": 26,
+        "max_age_weeks": 156
+    },
+    {
+        "profile_type": "disaster",
+        "label": "Disaster or Individual Tracking",
+        "breeds": [
+            "Doberman Pinscher",
+            "German Shepherd",
+            "Golden Retriever",
+            "Bloodhound",
+            "Rottweiler"
+        ],
+        "sex": "Intact Male",
+        "min_age_weeks": 20,
+        "max_age_weeks": 300
+    }
+]

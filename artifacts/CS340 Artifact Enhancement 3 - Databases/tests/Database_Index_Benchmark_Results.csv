@@ -1,0 +1,7 @@
+test_type,profile_type,documents_returned,documents_examined,keys_examined,execution_time_ms,average_query_ms,index_used
+Without Index,water,25,10000,0,8,7.7216,FALSE
+Without Index,mountain,19,10000,0,7,7.7675,FALSE
+Without Index,disaster,28,10000,0,7,7.8674,FALSE
+With Index,water,25,200,200,6,0.943,TRUE
+With Index,mountain,19,272,272,0,1.1393,TRUE
+With Index,disaster,28,389,389,1,1.4032,TRUE
