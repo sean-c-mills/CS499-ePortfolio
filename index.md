@@ -42,8 +42,6 @@ Putting the ePortfolio together also helped me see and explain my strengths more
 
 [Download the Professional Self-Assessment](https://github.com/sean-c-mills/CS499-ePortfolio/raw/main/self-assessment/Professional%20Self-Assessment.docx)
 
-[Return to Top of Page](#top)
-
 ## Code Review
 
 This code review examines the original Animal Shelter Dashboard developed in my CS 340: Client Server Development course. The review discusses the application's existing functionality, identifies areas for improvement, and explains my planned enhancements in software design and engineering, algorithms and data structures, and databases.
@@ -67,3 +65,5 @@ For my second enhancement, I added a suitability scoring system so eligible resc
 For my third enhancement, I expanded how MongoDB is used in the Animal Shelter Dashboard by moving the rescue-profile information into the database instead of keeping it directly in the application. I also added validation, moved the database credentials into environment variables, and tested a compound index with the rescue searches to see whether it improved performance.
 
 [View the Databases Enhancement](https://sean-c-mills.github.io/CS499-ePortfolio/databases.html)
+
+[Return to Top of Page](#top)
