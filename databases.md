@@ -50,6 +50,6 @@ The biggest challenge was moving the rescue profiles into MongoDB because once I
 
 ## Narrative Document
 
-[Download the Original Databases Narrative](https://github.com/sean-c-mills/CS499-ePortfolio/raw/main/narratives/Enhancement%203%20-%20Databases%20Narrative.docx)
+[Download the Databases Narrative](https://github.com/sean-c-mills/CS499-ePortfolio/raw/main/narratives/Enhancement%203%20-%20Databases%20Narrative.docx)
 
 [Return to the ePortfolio Home Page](https://sean-c-mills.github.io/CS499-ePortfolio/)
