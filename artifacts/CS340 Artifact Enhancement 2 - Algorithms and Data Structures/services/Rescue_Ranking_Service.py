@@ -133,7 +133,9 @@ def build_ranked_dataframe(records, source_columns):
     # Creates the completed ranked DataFrame
     return pd.DataFrame(records).reindex(columns=columns)
 
-# Ranks rescue candidates by sorting every eligible animal
+# Ranks rescue candidates by sorting all eligible animals
+# Time complexity: O(n log n) for sorting n candidates
+# Space complexity: O(n) for storing the scored candidates
 def rank_candidates_full_sort(dataframe, profile, k=10):
 
     # Returns an empty ranked DataFrame when there are no candidates
@@ -177,7 +179,9 @@ def rank_candidates_full_sort(dataframe, profile, k=10):
         list(dataframe.columns)
     )
 
-# Ranks rescue candidates using a bounded top-k priority queue
+# Ranks rescue candidates using a bounded priority queue
+# Time complexity: O(n log k + k log k) for selecting and ordering the top k
+# Space complexity: O(k) for maintaining the bounded priority queue
 def rank_candidates_top_k(dataframe, profile, k=10):
 
     # Returns an empty ranked DataFrame when there are no candidates
